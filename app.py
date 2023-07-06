@@ -1,5 +1,6 @@
 import streamlit as st
-from streamlit import components
+import streamlit.components.v1 as components
+import streamlit.components.v1 as stc
 
 # Define HTML code for Tableau embed
 tableau_html = """
