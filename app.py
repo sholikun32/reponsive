@@ -33,5 +33,4 @@ def main():
         else:
             st.error("Invalid username or password")
 
-if _name_ == "_main_":
-    main()
+
