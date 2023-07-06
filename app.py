@@ -9,7 +9,7 @@ def main():
     page_bg_img = '''
         <style>
         body {
-            background-image: url("https://www.freepik.com/free-photos-vectors/white-background");
+            background-image: url("");
             background-size: cover;
         }
         </style>
